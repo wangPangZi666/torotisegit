@@ -3,6 +3,5 @@ Class User{
 		System.out.println("HelloWord");
 		System.out.println("Hello dev!");		
 		System.out.println("Hello master!");	
-		System.out.println("user torotisegit!");
-	}
+		System.out.println("Hello tortoisegit!");	}
 }
